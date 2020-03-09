@@ -1,7 +1,7 @@
 
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Homework_01", "Homework_01\Homework_01.csproj", "{EF69CD70-287D-48A9-8D0A-7D7A38C7873C}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Homework_01", "Homework_01\Homework_01.csproj", "{7895DEF9-AAAD-4D73-B4C9-B9EA8D7E149B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -9,9 +9,9 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{EF69CD70-287D-48A9-8D0A-7D7A38C7873C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{EF69CD70-287D-48A9-8D0A-7D7A38C7873C}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{EF69CD70-287D-48A9-8D0A-7D7A38C7873C}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{EF69CD70-287D-48A9-8D0A-7D7A38C7873C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7895DEF9-AAAD-4D73-B4C9-B9EA8D7E149B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7895DEF9-AAAD-4D73-B4C9-B9EA8D7E149B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7895DEF9-AAAD-4D73-B4C9-B9EA8D7E149B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7895DEF9-AAAD-4D73-B4C9-B9EA8D7E149B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
