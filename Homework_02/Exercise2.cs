@@ -1,10 +1,12 @@
 ﻿using System;
+
 namespace Homework_02
 {
-    public class EmptyClass
+    class Program2
     {
-        public EmptyClass()
+        static void Main2(string[] args)
         {
+            Console.WriteLine("das");
         }
     }
 }
